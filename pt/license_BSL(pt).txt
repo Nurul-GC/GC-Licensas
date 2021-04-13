@@ -1,0 +1,23 @@
+﻿Licença de software Boost - Versão 1.0 - 17 de agosto de 2003
+
+A permissão é concedida, gratuitamente, a qualquer pessoa ou organização
+obter uma cópia do software e a documentação que o acompanha, coberta por
+esta licença (o "Software") para usar, reproduzir, exibir, distribuir,
+executar e transmitir o Software e preparar trabalhos derivados do
+Software e permitir a terceiros a quem o Software é fornecido para
+faça isso, todos sujeitos ao seguinte:
+
+Os avisos de direitos autorais no Software e nesta declaração inteira, incluindo
+a concessão da licença acima, esta restrição e o aviso de isenção de responsabilidade a seguir,
+deve ser incluído em todas as cópias do Software, no todo ou em parte, e
+todos os trabalhos derivados do Software, a menos que tais cópias ou
+Os trabalhos são apenas na forma de código de objeto executável por máquina gerado por
+um processador de idioma de origem.
+
+O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UM OBJETIVO ESPECÍFICO, TÍTULO E NÃO INFRACÇÃO. EM NENHUM EVENTO
+OS TITULARES DE DIREITOS AUTORAIS OU QUALQUER UM QUE DISTRIBUIR O SOFTWARE SERÃO RESPONSÁVEIS
+POR QUALQUER DANO OU OUTRA RESPONSABILIDADE, CONTRATADA, TORT OU DE OUTRA FORMA,
+DECORRENTES, DESLIGADOS OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTROS
+NEGÓCIOS NO SOFTWARE.
