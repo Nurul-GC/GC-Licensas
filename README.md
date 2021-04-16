@@ -1,6 +1,6 @@
 # GC-Licensas
 
-where I get all my license files
+where I keep all my license files
 
 ---
 
