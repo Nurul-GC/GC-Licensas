@@ -1,0 +1,22 @@
+A licença BSD de 3 cláusulas
+
+Copyright <YEAR> <PORTADOR DE DIREITOS AUTORAIS>
+
+A redistribuição e o uso nas formas de origem e binária, com ou sem modificação, são permitidos desde que as seguintes condições sejam atendidas:
+
+1. As redistribuições do código-fonte devem manter o aviso de copyright acima, esta lista de condições e a seguinte isenção de responsabilidade.
+
+2. As redistribuições na forma binária devem reproduzir o aviso de direitos autorais acima,
+esta lista de condições e a seguinte isenção de responsabilidade na documentação e / ou outros materiais fornecidos com a distribuição.
+
+3. Nem o nome do detentor dos direitos autorais nem os nomes de seus colaboradores podem ser usados
+endossar ou promover produtos derivados deste software sem permissão prévia específica por escrito.
+
+ESTE SOFTWARE É FORNECIDO PELOS PROPRIETÁRIOS DE DIREITOS AUTORAIS E CONTRIBUIDORES "NO ESTADO EM QUE SE ENCONTRA"
+E QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A,
+AS GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM DETERMINADO FIM SÃO RENUNCIADAS.
+EM NENHUMA HIPÓTESE O TITULAR DOS DIREITOS AUTORAIS OU CONTRIBUIDORES SERÁ RESPONSÁVEL POR QUALQUER
+DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENCIAIS
+(INCLUINDO, MAS NÃO SE LIMITANDO A, AQUISIÇÃO DE BENS OU SERVIÇOS DE SUBSTITUIÇÃO; PERDA DE USO, DADOS OU LUCROS; OU INTERRUPÇÃO DE NEGÓCIOS)
+NO ENTANTO, CAUSADO E EM QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE ESTRITA OU DELITO (INCLUINDO NEGLIGÊNCIA OU DE OUTRA FORMA)
+DECORRENTE DE QUALQUER FORMA DO USO DESTE SOFTWARE, MESMO SE AVISADO SOBRE A POSSIBILIDADE DE TAIS DANOS.
